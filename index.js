@@ -5,7 +5,7 @@ const port = 3000
 const mongoose = require('mongoose')
 mongoose.connect('mongodb+srv://emuce:Dlantm3837!@cluster0.nuvgp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',{
     // useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true, useFindAndModify: false
-}).then(() => console.log('MongoDB Connected...'))
+}).then(() => console.log('MongoDB Connected.dasdfsafdd..'))
   .catch(err => console.log(err))
 
 

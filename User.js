@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const userSchema = mongoose.Schema({
     name: {
         type: String,
-        minlength: 50
+        minlength: 55
     }, 
     email: {
         type: String,
